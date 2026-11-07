@@ -67,9 +67,9 @@ code_review_output.png
 
 Then display it using:
 
-```markdown
+markdown
 ![Project Output](code_review_output.png)
-```
+
 
 ---
 
